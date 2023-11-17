@@ -10,3 +10,6 @@ A screencast of ANJAs functionality is added as well.
 ## To use the app please navigate to the ELIZA folder and run:
 pip install -r requirements.txt <br>
 streamlit run main.py
+
+
+#### Student ID: 7013900
