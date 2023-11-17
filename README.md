@@ -1,5 +1,5 @@
 # ANJA - An ELIZA like ChatBot
- WWI21DSB-AI Project #1
+ ### WWI21DSB-AI Project - Lernziel 1 Historische Meilensteine
 
  ANJA is an ELIZA like ChatBot for the German language.
 
