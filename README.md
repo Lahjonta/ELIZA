@@ -5,6 +5,7 @@ ANJA is an ELIZA like ChatBot for the German language.<br>
 It uses pattern matching and rule-based responses. <br>
 It parses user input, checks it against predefined patterns, and generates responses according to matched rules that are defined in phrases.py.<br>
 The chat interface allows users to engage in a conversation with ANJA (main.py)<br>
+A screencast of ANJAs functionality is added as well.
 
 ## To use the app please navigate to the ELIZA folder and run:
 pip install -r requirements.txt <br>
